@@ -16,5 +16,9 @@ if __name__ == "__main__":
                 [3, 1, 2]]
     assert check_numero(incorrect) == False
     assert check_numero(correct) == True
+    incorrect4 = [['a', 'b', 'c'],
+                  ['b', 'c', 'a'],
+                  ['c', 'a', 'b']]
+    assert check_numero(incorrect4) == False
 
 
