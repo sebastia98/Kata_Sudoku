@@ -1,1 +1,2 @@
-def check_cuadrado ()
+def check_cuadrado (sudoku):
+    assert isinstance ()
