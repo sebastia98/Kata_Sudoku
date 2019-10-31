@@ -1,0 +1,11 @@
+[
+  "test_check_sudoku.py::test_uno",
+  "test_check_sudoku.py::test_dos",
+  "test_check_sudoku.py::test_tres",
+  "test_check_sudoku.py::test_cuatro",
+  "test_check_sudoku.py::test_quinto",
+  "test_check_sudoku.py::test_seis",
+  "test_check_sudoku.py::test_siete",
+  "test_check_sudoku.py::test_ocho",
+  "test_check_sudoku.py::test_nueve"
+]
